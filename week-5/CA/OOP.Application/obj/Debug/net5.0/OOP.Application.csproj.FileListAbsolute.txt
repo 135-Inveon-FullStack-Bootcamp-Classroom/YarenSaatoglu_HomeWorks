@@ -1,0 +1,16 @@
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\OOP.Application.exe
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\OOP.Application.deps.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\OOP.Application.runtimeconfig.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\OOP.Application.runtimeconfig.dev.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\OOP.Application.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\ref\OOP.Application.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\bin\Debug\net5.0\OOP.Application.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.csproj.AssemblyReference.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.AssemblyInfoInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.AssemblyInfo.cs
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\ref\OOP.Application.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\Oop_Assignment_5\CA\OOP.Application\obj\Debug\net5.0\OOP.Application.genruntimeconfig.cache
