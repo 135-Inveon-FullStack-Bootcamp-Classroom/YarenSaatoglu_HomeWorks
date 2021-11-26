@@ -1,0 +1,12 @@
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\bin\Debug\net5.0\MOVIE.Entites.deps.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\bin\Debug\net5.0\MOVIE.Entites.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\bin\Debug\net5.0\ref\MOVIE.Entites.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\bin\Debug\net5.0\MOVIE.Entites.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.csproj.AssemblyReference.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.AssemblyInfoInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.AssemblyInfo.cs
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\ref\MOVIE.Entites.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Entites\obj\Debug\net5.0\MOVIE.Entites.pdb

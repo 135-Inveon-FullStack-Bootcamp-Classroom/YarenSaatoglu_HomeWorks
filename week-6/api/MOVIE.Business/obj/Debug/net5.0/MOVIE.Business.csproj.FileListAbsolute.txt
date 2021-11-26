@@ -1,0 +1,17 @@
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.Business.deps.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.Business.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\ref\MOVIE.Business.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.Business.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.csproj.AssemblyReference.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.AssemblyInfoInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.AssemblyInfo.cs
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\ref\MOVIE.Business.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.DataAccess.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.Entites.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.DataAccess.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\bin\Debug\net5.0\MOVIE.Entites.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.Business\obj\Debug\net5.0\MOVIE.Business.csproj.CopyComplete

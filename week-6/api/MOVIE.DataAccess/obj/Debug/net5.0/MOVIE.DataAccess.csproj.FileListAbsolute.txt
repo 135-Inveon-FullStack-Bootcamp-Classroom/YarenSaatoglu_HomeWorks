@@ -1,0 +1,17 @@
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.DataAccess.deps.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.DataAccess.runtimeconfig.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.DataAccess.runtimeconfig.dev.json
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.DataAccess.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\ref\MOVIE.DataAccess.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.DataAccess.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.Entites.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\bin\Debug\net5.0\MOVIE.Entites.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.csproj.AssemblyReference.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.AssemblyInfoInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.AssemblyInfo.cs
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\ref\MOVIE.DataAccess.dll
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.pdb
+D:\PROJECTS\Inveon FullStack Bootcamp\React\week-6\api\MOVIE.DataAccess\obj\Debug\net5.0\MOVIE.DataAccess.genruntimeconfig.cache
